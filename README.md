@@ -1,9 +1,11 @@
 ### Olá! 🖖
 
+Bem vindas e bem vindos, me chamo Emilia Lima.
 
 
-- 🔭 Atualmente trabalhando em projetos pessoais e contrução de portfólio
-- 🌱 Estudando HTML, CSS e JavaScript...
+- 🔭 Atualmente trabalhando em projetos pessoais e contrução de portfólio.
+- 🌱 Estudando HTML, CSS e JavaScript.
+- 🛰️ Desenvolvedora Web Full Stack, com forte interesse em desenvolvimento FrontEnd.
 
 <div align="center">
   <a href="https://github.com/emilialimacor">
@@ -21,7 +23,9 @@
   <img align="center" alt="nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
   </div>
+  
   
   ##
   
