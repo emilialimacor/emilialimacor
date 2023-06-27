@@ -4,8 +4,8 @@ Bem vindas e bem vindos, me chamo Emilia Lima.
 
 
 - 🔭 Atualmente trabalhando em projetos pessoais e contrução de portfólio.
-- 🌱 Estudando HTML, CSS e JavaScript.
-- 🛰️ Desenvolvedora Web Full Stack, com forte interesse em desenvolvimento FrontEnd.
+- 🌱 Estudando HTML, CSS, JavaScript, Angular e React JS.
+- 🛰️ Desenvolvedora Web Full Stack, com experiência em desenvolvimento FrontEnd.
 
 <div align="center">
   <a href="https://github.com/emilialimacor">
