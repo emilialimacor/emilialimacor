@@ -3,9 +3,9 @@
 Bem vindas e bem vindos, me chamo Emilia Lima.
 
 
-- 🔭 Atualmente trabalhando em projetos pessoais e contrução de portfólio.
+- 🔭 Atualmente estudante na Formação Acelerada em Programação na Softex, trabalhando em projetos pessoais e contrução de portfólio.
 - 🌱 Estudando HTML, CSS, JavaScript, Angular e React JS.
-- 🛰️ Desenvolvedora Web Full Stack, com experiência em desenvolvimento FrontEnd.
+- 🛰️ Desenvolvedora Web Full Stack, com experiência e foco em desenvolvimento FrontEnd.
 
 <div align="center">
   <a href="https://github.com/emilialimacor">
