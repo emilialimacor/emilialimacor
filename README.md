@@ -3,8 +3,8 @@
 Bem vindas e bem vindos, me chamo Emilia Lima.
 
 
-- 🔭 Atualmente estudante na Formação Acelerada em Programação na Softex, trabalhando em projetos pessoais e construção de portfólio.
-- 🌱 Estudo contínuo em Lógica de Programação, HTML, CSS, JavaScript, Typecript, Angular e React JS.
+- 🔭 Atualmente estudante em Pós Graudação e Residência em Testes de Software no projeto Cin Motorola em parceria com a UFPE, trabalhando em projetos pessoais e construção de portfólio.
+- 🌱 Estudo contínuo em Lógica de Programação, HTML, CSS, JavaScript, Typescript, Angular e React JS.
 - 🛰️ Desenvolvedora Web Full Stack, com experiência e foco em desenvolvimento FrontEnd.
 
 <div align="center">
