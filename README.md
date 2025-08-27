@@ -6,6 +6,7 @@ Bem vindas e bem vindos, me chamo Emilia Lima.
 - 🔭 Especialista em Testes de Software pelo projeto Cin Motorola em parceria com a UFPE, trabalhando em projetos pessoais e construção de portfólio.
 - 🌱 Estudo contínuo em Lógica de Programação, HTML, CSS, JavaScript, Typescript, Python, Angular, React JS, Cypress, Selenium.
 - 🛰️ Desenvolvedora Web Full Stack, com experiência e foco em desenvolvimento FrontEnd.
+- 👀 Engenheira de Teste de Software com experiência em Testes Manuais.
 
 <div align="center">
   <a href="https://github.com/emilialimacor">
@@ -25,7 +26,6 @@ Bem vindas e bem vindos, me chamo Emilia Lima.
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />  
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
   </div>
   
   ##
