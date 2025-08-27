@@ -3,8 +3,8 @@
 Bem vindas e bem vindos, me chamo Emilia Lima.
 
 
-- 🔭 Atualmente estudante em Pós Graudação e Residência em Testes de Software no projeto Cin Motorola em parceria com a UFPE, trabalhando em projetos pessoais e construção de portfólio.
-- 🌱 Estudo contínuo em Lógica de Programação, HTML, CSS, JavaScript, Typescript, Angular e React JS.
+- 🔭 Especialista em Testes de Software pelo projeto Cin Motorola em parceria com a UFPE, trabalhando em projetos pessoais e construção de portfólio.
+- 🌱 Estudo contínuo em Lógica de Programação, HTML, CSS, JavaScript, Typescript, Python, Angular, React JS, Cypress, Selenium.
 - 🛰️ Desenvolvedora Web Full Stack, com experiência e foco em desenvolvimento FrontEnd.
 
 <div align="center">
