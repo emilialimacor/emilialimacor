@@ -32,9 +32,8 @@ Bem vindas e bem vindos, me chamo Emilia Lima.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilialimacor/emilialimacor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilialimacor/emilialimacor/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilialimacor/emilialimacor/output/pacman-contribution-graph.svg">
-</picture>
+  </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
   
   
