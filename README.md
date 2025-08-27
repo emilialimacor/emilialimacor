@@ -28,14 +28,11 @@ Bem vindas e bem vindos, me chamo Emilia Lima.
 
   </div>
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilialimacor/workflows/pacman-contribution.yml">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilialimacor/workflows/pacman-contribution.yml">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilialimacor/workflows/pacman-contribution.yml">
-  </picture>
-
-
-  
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilialimacor/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilialimacor/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilialimacor/output/pacman-contribution-graph.svg">
+</picture>
   
   ##
   
